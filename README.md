@@ -1,7 +1,15 @@
 # User Albums 
 
 ## Available Scripts
-In the project directory, you can run:
+
+### `git clone https://github.com/vishwasdev01/react-gallery-task.git`
+clone the project \
+
+### `npm install`
+install the packages
+
+### `cd react-gallery-task`
+enter into to project directory.
 
 ### `npm start`
 
@@ -21,8 +29,8 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ### API Details
-USER API - https://jsonplaceholder.typicode.com/users
-ALBUM API - https://jsonplaceholder.typicode.com/albums
+USER API - https://jsonplaceholder.typicode.com/users\
+ALBUM API - https://jsonplaceholder.typicode.com/albums\
 PHOTOS API - https://jsonplaceholder.typicode.com/photos
 
 ### Package Details
